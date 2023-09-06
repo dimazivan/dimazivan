@@ -114,9 +114,12 @@
 
 
 ## Github Stats  
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dimazivan&hide_border=true&layout=compact" align="left" />  
-
-<div align="right"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dimazivan&show_icons=true&count_private=true&hide_border=true" align="right" /></div>  
+<a href="#">
+  <img height=200 align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=dimazivan" />
+</a>
+<a href="#">
+  <img height=200 align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=dimazivan&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 <br/>  
 
