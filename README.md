@@ -114,12 +114,15 @@
 
 
 ## Github Stats  
-<a href="#">
-  <img height=200 width=auto align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=dimazivan&layout=compact&langs_count=8&card_width=320" />
-</a>
-<a href="#">
-  <img height=200 width=auto align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=dimazivan&layout=compact&langs_count=8&card_width=320" />
-</a>
+<div style="display: flex; justify-content: center;">
+  <a href="#" style="margin-right: 20px;">
+    <img height="200" width="auto" src="https://github-readme-stats-sigma-five.vercel.app/api?username=dimazivan&layout=compact&langs_count=8&card_width=320" />
+  </a>
+  <a href="#">
+    <img height="200" width="auto" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=dimazivan&layout=compact&langs_count=8&card_width=320" />
+  </a>
+</div>
+
 
 <br/>  
 
