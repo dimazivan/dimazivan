@@ -116,10 +116,10 @@
 ## Github Stats  
 <div style="display: flex; justify-content: center;">
   <a href="#" style="margin-right: 20px;">
-    <img height="200" width="auto" src="https://github-readme-stats-sigma-five.vercel.app/api?username=dimazivan&layout=compact&langs_count=8&card_width=320" />
+    <img height="200" width="auto" src="https://github-readme-stats-sigma-five.vercel.app/api?username=dimazivan&layout=compact&langs_count=8&card_width=auto" />
   </a>
   <a href="#">
-    <img height="200" width="auto" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=dimazivan&layout=compact&langs_count=8&card_width=320" />
+    <img height="200" width="auto" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=dimazivan&layout=compact&langs_count=8&card_width=auto" />
   </a>
 </div>
 
@@ -127,7 +127,7 @@
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=dimazivan&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=dimazivan&&style=flat-square" align="center" width="100"/>
 </div>  
 
 
