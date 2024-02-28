@@ -15,7 +15,7 @@
 - 📚 Working with API  
   
 
-- 📚 Learning about JS Stack now  
+- 📚 Improving about JS Stack now  
   
 
 - ✍ My contact information :  
