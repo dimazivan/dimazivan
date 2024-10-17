@@ -1,6 +1,6 @@
 <div align="center">
-<img src="https://media.licdn.com/dms/image/D5616AQEm8-czL9lnUA/profile-displaybackgroundimage-shrink_350_1400/0/1693537944772?e=1728518400&v=beta&t=HImKgCQoh-S58MsyFXOCanUU8u7366gguIbZT_RpASk" align="center" height="" width="100%" />
-</div>  
+<img src="https://media.licdn.com/dms/image/v2/D5616AQEm8-czL9lnUA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1693537944772?e=1734566400&v=beta&t=tKtbngH7JPAlifUSoM178NMgERdPC21tT1JRkAEg1Q4" align="center" height="" width="100%" />
+</div> 
   
 
 ### <div align="center">My name Dimaz Ivan Perdana 🤵, here some informations about me.</div>  
@@ -15,7 +15,7 @@
 - 📚 Working with API  
   
 
-- 📚 Improving about JS Stack now  
+- 📚 Learn JS and Mobile Based
   
 
 - ✍ My contact information :  
